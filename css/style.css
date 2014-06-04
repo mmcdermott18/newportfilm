@@ -11,6 +11,7 @@
 		width: 23%;
 		margin: 1%;
 		float: left;
+		border: 1px solid #333;
 	}
 	img.ad {
 		width: 210px;
