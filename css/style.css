@@ -70,3 +70,8 @@
 		float: left;
 		border-bottom: 1px dotted DodgerBlue;
 	}
+	.footer {
+		width: 100%;
+		float: left;
+		margin: 10px;
+	}
