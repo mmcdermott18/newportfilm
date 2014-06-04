@@ -8,10 +8,10 @@
 		font-weight: normal;
 	}
 	img {
-		width: 23%;
+		width: 22.5%;
 		margin: 1%;
 		float: left;
-		border: 1px solid #333;
+		border: 1px solid silver;
 	}
 	img.ad {
 		width: 210px;
