@@ -12,6 +12,10 @@
 		margin: 1%;
 		float: left;
 	}
+	img.ad {
+		width: 210px;
+		height: 600px;
+	}
 	a {
 		text-decoration: none;
 	}
