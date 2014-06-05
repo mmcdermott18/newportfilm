@@ -68,12 +68,12 @@
 	.toptwothird {
 		width: 66%;
 		float: left;
-		border-bottom: 1px dotted DodgerBlue;
+		/*border-bottom: 1px dotted DodgerBlue;*/
 	}
 	.toponethird {
 		width: 33%;
 		float: left;
-		border-bottom: 1px dotted DodgerBlue;
+		/*border-bottom: 1px dotted DodgerBlue;*/
 	}
 	.whole {
 		width: 100%;
