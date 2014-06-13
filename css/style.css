@@ -17,6 +17,14 @@
 		width: 210px;
 		height: 600px;
 	}
+	img.ad1 {
+		width: 1225px;
+		height: 125px;
+	}
+	img.ad2 {
+		width: 300;
+		height: 250px;
+	}
 	a {
 		text-decoration: none;
 	}
