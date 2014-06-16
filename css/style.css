@@ -18,12 +18,12 @@
 		height: 600px;
 	}
 	img.ad1 {
-		width: 1225px;
-		height: 125px;
+		width: 1225px !important;
+		height: 125px !important;
 	}
 	img.ad2 {
-		width: 300;
-		height: 250px;
+		width: 300px !important;
+		height: 250px !important;
 	}
 	a {
 		text-decoration: none;
