@@ -1,6 +1,9 @@
 	* {
 		font-family: 'Messenger Text', sans-serif;
 	}
+	body {
+		margin-bottom: 10px;
+	}
 	h1 {
 		font-family: 'Messenger Mono', sans-serif;
 		font-size: 16px;
