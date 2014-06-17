@@ -1,8 +1,8 @@
 	* {
 		font-family: 'Messenger Text', sans-serif;
 	}
-	body {
-		margin-bottom: 10px;
+	html {
+		margin-bottom: 20px;
 	}
 	h1 {
 		font-family: 'Messenger Mono', sans-serif;
